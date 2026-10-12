@@ -1,4 +1,3 @@
-# Room Write-up: Offensive Security Intro
 
 <img width="1654" height="391" alt="Screenshot 2026-10-12 at 20 38 03" src="https://github.com/user-attachments/assets/b73cc314-aa8a-40d6-83ae-b4b428887732" />
 
